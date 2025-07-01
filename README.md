@@ -1,6 +1,9 @@
  👋 I’m Fernando !
  <br>
 
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-74f8-61f7-9d39-f73b68296df8/raw?se=2025-07-01T22%3A34%3A42Z&sp=r&sv=2024-08-04&sr=b&scid=b3c89628-ea41-588f-bec4-45b766614800&skoid=5cab1ff4-c20d-41dc-babb-df0c2cc21dd4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-01T17%3A09%3A55Z&ske=2025-07-02T17%3A09%3A55Z&sks=b&skv=2024-08-04&sig=PcQsMj2mMn9A8RVa%2BtaibQg%2Bd/0rop64QVtedPwBPCs%3D)" alt="bootstrap" width="100" height="100"/>
+
+  
  - 🌱Actualmente estoy aprendiendo **bootstrap ,git ,css3 ,html5**
 
  - 👨‍💻 Todos mis proyectos están disponibles en [https://porfolio-web-25-ufer.netlify.app/](https://porfolio-web-25-ufer.netlify.app/)
