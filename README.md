@@ -1,7 +1,7 @@
  👋 I’m Fernando !
  <br>
 
-  <img src="[https://porfolio-web-25-ufer.netlify.app/src/img/reviews/Imagen%20de%20WhatsApp%202024-08-22%20a%20las%2016.32.38_212eaf8b.jpg](https://stellular-sprinkles-faa754.netlify.app/src/img/reviews/urbano-01.png)" alt="mi-perfil"  align="end" width="200" height="200"/>
+
 
   
  - 🌱Actualmente estoy aprendiendo **bootstrap ,git ,css3 ,html5**
