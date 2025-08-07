@@ -1,6 +1,5 @@
-![Mi imagen de perfil](Imagen de ChatGPT 1 jul 2025, 18_33_35.png)
 
-
+<img align="left" src="/urbano-01.png" alt="fernando-urb" />
  
  👋 I’m Fernando !
  <br>
@@ -8,7 +7,7 @@
 
 
   
- - 🌱Actualmente estoy aprendiendo **bootstrap ,git ,css3 ,html5**
+ - 🌱Actualmente estoy aprendiendo **bootstrap ,git ,css3 ,html5 ,JavaScript**
 
  - 👨‍💻 Todos mis proyectos están disponibles en [https://porfolio-web-25-ufer.netlify.app/](https://porfolio-web-25-ufer.netlify.app/)
 
