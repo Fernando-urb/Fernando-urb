@@ -1,3 +1,7 @@
+![Mi imagen de perfil](Imagen de ChatGPT 1 jul 2025, 18_33_35.png)
+
+
+ 
  👋 I’m Fernando !
  <br>
 
