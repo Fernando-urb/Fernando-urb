@@ -1,5 +1,5 @@
 
-<img align="left" src="/urbano-01.png" alt="fernando-urb" />
+<img align="left" src="/urbano-01.png" alt="fernando-urb"  height="30" width="40"  />
  
  👋 I’m Fernando !
  <br>
